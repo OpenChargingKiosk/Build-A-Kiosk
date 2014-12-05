@@ -4,4 +4,5 @@
 | 12V 7Ah Battery        | [Amazon](http://www.amazon.com/Amstron-Sealed-Lead-Battery-Terminal/dp/B002L9LU48/ref=sr_1_23?s=hpc&ie=UTF8&qid=1417818506&sr=1-23)                 | $13.49 |
 | Charge Controller      | [Amazon](http://www.amazon.com/Charge-Controller-Battery-Regulator-Protection/dp/B00JKDZVRU/ref=sr_1_6?ie=UTF8&qid=1417584333&sr=8-6)               | $10.99 |
 | Cigarette Lighter Port | [Amazon](http://www.amazon.com/Charger-Cigarette-Lighter-Female-Socket/dp/B00EZJBELQ/ref=sr_1_7?ie=UTF8&qid=1417584488&sr=8-7)                      | $4.82  |
+| Battery Connector 	 | [Amazon](http://www.amazon.com/Amico-Female-Insulated-Terminal-Connector/dp/B008FZAP4S/ref=sr_1_16?ie=UTF8&qid=1417818932&sr=8-16)		       | $4.50	|
 | USB Car Charger        | [Amazon](http://www.amazon.com/Compact-Charger-Adapter-Android-Tablets/dp/B007BJCV6E/ref=sr_1_7?ie=UTF8&qid=1417584558&sr=8-7)                      | $2.33  |
